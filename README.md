@@ -9,3 +9,6 @@ Le projet inclura deux afficheurs directements pilotés par deux ATM328P.
 include <U8g2lib.h>
 include <Arduino_GFX_Library.h>
 ```
+### Resources OLED:
+Software GitHub - This Repo contains Library and Example codes.
+Hardware GitHub - This Repo contains Schematic, Datasheet, etc. 
