@@ -11,6 +11,10 @@ include <Arduino_GFX_Library.h>
 ```
 ### Resources OLED:
 ```
-Software GitHub - This Repo contains Library and Example codes.
-Hardware GitHub - This Repo contains Schematic, Datasheet, etc.
+Software GitHub -
+https://github.com/sbcshop/1.14-LCD-Breakout-Software
+This Repo contains Library and Example codes.
+Hardware GitHub -
+
+This Repo contains Schematic, Datasheet, etc.
 ```
