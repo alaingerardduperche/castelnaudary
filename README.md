@@ -9,7 +9,7 @@ Le projet inclura deux afficheurs directements pilotés par deux ATM328P.
 include <U8g2lib.h>
 include <Arduino_GFX_Library.h>
 ```
-### Resources OLED:
+### Ressources OLED:
 ```
 Software GitHub -
 https://github.com/sbcshop/1.14-LCD-Breakout-Software
