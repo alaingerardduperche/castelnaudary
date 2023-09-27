@@ -15,6 +15,6 @@ Software GitHub -
 https://github.com/sbcshop/1.14-LCD-Breakout-Software
 This Repo contains Library and Example codes.
 Hardware GitHub -
-
+https://github.com/sbcshop/1.14-LCD-Breakout-Hardware
 This Repo contains Schematic, Datasheet, etc.
 ```
