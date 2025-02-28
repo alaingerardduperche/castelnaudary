@@ -1,5 +1,5 @@
 # castelnaudary
-Clone et amélioration du projet Affichage de la Gare d'Aurillac.
+Clone et amélioration du projet Affichage de la Gare d'Aurillac du site LOCODUINO.
 Edité le 25 septembre 2023 par Alaingérard Duperche.
 Ce projet pour trains miniatures , utilise un Arduino UNO, la bibliothèque GFX et un afficheur OLED.
 Ultérieurement, je publierais les plans du montage.
